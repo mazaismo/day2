@@ -1,0 +1,30 @@
+div{
+    color:green;
+}
+p {
+    color: green;
+}
+.red-p{
+    color:red;
+}
+span {
+    color:green;
+}
+.blue-p{
+    color:blue;
+}
+.blue-p span{
+    color:yellow;
+}
+strong {
+    color: green;
+}
+span {
+    color: pink;
+}
+[data-foo="bar"] {
+color:violet;
+}
+p:hover>span {
+color:green;
+}

@@ -1,0 +1,25 @@
+div{
+    color: rgb(37, 16, 16);
+}div div {
+    color: yellow;
+}
+.specials-element {
+color:red;
+}
+
+input{
+color: gray;
+}
+input[value=input2]{
+color: red;
+
+}
+
+a:hover {
+    color: green;
+}
+
+#some input{
+color:blue;
+
+}
